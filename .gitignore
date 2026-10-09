@@ -8,3 +8,21 @@
 version.py
 __pycache__
 model_repo
+
+# Local audio model runtime files
+__pycache__/
+*.py[cod]
+*.bak
+*.safetensors
+*.pt
+*.pth
+*.wav
+*.flac
+*.mp3
+*.mp4
+*.zip
+.venv/
+envs/
+test_outputs/
+enhance_results/
+resemble_enhance/model_repo/
